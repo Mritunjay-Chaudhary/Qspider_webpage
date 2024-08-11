@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+section{
+    height: 700px;
+    width: 1540px;
+    background-color: black;
+    color: wheat;
+    position: fixed;
+    
+    
+}
+.box3{
+    text-align: center;
+}
+.box1{
+    position: relative;
+    top: 50px;
+    left: 370px;
+    display: flex;
+    border-radius: 10px;
+    
+}
+.box2{
+    position: relative;
+    top: 100px;
+    left: 270px;
+    display: flex;
+}
+section .box1 .a1{
+    position: relative;
+    right: 100px;
+
+}
+section .box1 .a2{
+    position: relative;
+    left: -40px;
+
+}
+section .box1 .a3{
+    position: relative;
+    left: 10px;
+
+}
+section .box2 .a4{
+    position: relative;
+    top: 200px;
+    right: 300px;
+
+}
+
+span{
+    color: red;
+}
+img{
+    border-radius: 10px;
+}
