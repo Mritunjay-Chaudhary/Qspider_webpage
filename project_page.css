@@ -4,11 +4,14 @@
     box-sizing: border-box;
 }
 section{
-    height: 700px;
-    width: 1540px;
+    height: 680px;
+    width: 1450px;
     background-color: black;
     color: wheat;
     position: fixed;
+    top: 40px;
+    left: 40px;
+    border-radius: 20px;
     
     
 }
