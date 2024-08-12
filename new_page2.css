@@ -1,0 +1,193 @@
+
+section{
+    height: 650px;
+    width: 1400px;
+    border: 2px solid wheat;
+    border-radius: 10px;
+    position: fixed;
+    top: 20px;
+    left: 70px;
+    text-align: center;
+    background-color:wheat;
+    color: black;
+   ;
+
+}
+i{
+    
+
+    color:red;
+}
+
+
+.box1{
+    position: relative;
+    left: 30px;
+}
+img{
+    border-radius: 50%;
+}
+.photos{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: -250px;
+}
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 100px;
+    left: 20px;
+    color: blue;
+    
+}
+section .box .a1{
+    height: 300px;
+    width: 200px;
+    border: 2px solid wheat;
+    border-radius: 10px;
+    position: relative;
+    right: 0px;
+    
+    background-color:wheat;
+    color: black;
+    box-shadow: 10px 5px 4px rgb(238, 7, 7);
+}
+section .box .a2{
+    height: 300px;
+    width: 200px;
+    border: 2px solid wheat;
+    border-radius: 10px;
+    position: relative;
+    right: 5px;
+    background-color:wheat;
+    color: black;
+    box-shadow: 10px 5px 4px rgb(238, 7, 7);
+}
+section .box .a3{
+    height: 300px;
+    width: 200px;
+    border: 2px solid wheat;
+    border-radius: 10px;
+    position: relative;
+    right: 15px;
+    
+    background-color:wheat;
+    color: black;
+    box-shadow: 10px 5px 4px rgb(238, 7, 7);
+}
+section .box .a4{
+    height: 300px;
+    width: 200px;
+    border: 2px solid wheat;
+    border-radius: 10px;
+    position: relative;
+    right: 30px;
+    
+    background-color:wheat;
+    color: black;
+    box-shadow: 10px 5px 4px rgb(238, 7, 7);
+}
+section .box .a1 .icon{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 150px;
+}
+
+section .box .a2 .icon{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 150px;
+}
+
+section .box .a3 .icon{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 150px;
+}
+
+section .box .a4 .icon{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 150px;
+}
+section .box .a1 .leter{
+    position: relative;
+    top: 70px;
+}
+section .box .a2 .leter{
+    position: relative;
+    top: 70px;
+}
+section .box .a3 .leter{
+    position: relative;
+    top: 70px;
+}
+section .box .a4 .leter{
+    position: relative;
+    top: 70px;
+}
+
+section .box .a1:hover{
+    background-color: red;
+    border: 2px solid red;
+    color: wheat;
+}
+section .box .a2:hover{
+    background-color: red;
+    border: 2px solid red;
+    color: wheat;
+}
+section .box .a3:hover{
+    background-color: red;
+    border: 2px solid red;
+    color: wheat;
+}
+section .box .a4:hover{
+    background-color: red;
+    border: 2px solid red;
+    color: wheat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
